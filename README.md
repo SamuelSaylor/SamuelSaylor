@@ -14,6 +14,6 @@ I'm a Computer Science & Software Engineering dual-major at the University of Te
 <a href="https://www.linkedin.com/in/samuel-saylor-319402382/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:samuelsaylor2025@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samuelsaylor2025@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> <sup><sub>(samuelsaylor2025@gmail.com in case hyperlink fails you.)</sub></sup>
